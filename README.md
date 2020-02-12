@@ -1,0 +1,2 @@
+# GitTrainingSession
+Just a training
